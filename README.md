@@ -4,6 +4,7 @@ Context-based database transaction management for Go
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/hamidghavidel/txctx.svg)](https://pkg.go.dev/github.com/hamidghavidel/txctx)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hamidghavidel/txctx)](https://goreportcard.com/report/github.com/hamidghavidel/txctx)
+[![codecov](https://codecov.io/github/hamidghavidel/txctx/graph/badge.svg?token=2LC8B9A7R5)](https://codecov.io/github/hamidghavidel/txctx)
 
 ## Overview
 
