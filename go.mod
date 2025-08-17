@@ -1,4 +1,4 @@
-module txctx
+module github.com/hamidghavidel/txctx
 
 go 1.24
 
